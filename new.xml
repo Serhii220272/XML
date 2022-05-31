@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<person>
+<name>Serhii Semenov</name>
+<age>50</age>
+<pets null="true" />
+<Future_desired_salary>2000_dollars</Future_desired_salary>
+</person>
