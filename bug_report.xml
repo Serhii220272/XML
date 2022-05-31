@@ -1,1 +1,7 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<Steps>
+<1_steps>open window of programs</1_steps>
+<2_steps>licked the 'Open' button"</2_steps>
+</Steps>
+<Expected_result>The 'Payment' window opens</Expected_result>
+<Real_result>404 error is thrown</Real_result>
